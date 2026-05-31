@@ -232,10 +232,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="349.19568282939156" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="349.19568282939156" y="0" width="42.97634448153716" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="392.1720273109287" y="0" width="42.942274476581446" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="435.11430178751016" y="0" width="24.88569821248981" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="349.0700442401312" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="349.0700442401312" y="0" width="43.0923294367411" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="392.16237367687233" y="0" width="42.9608818410816" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="435.12325551795396" y="0" width="24.87674448204606" height="8" fill="#178600"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -246,15 +246,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        TypeScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Python
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        TypeScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1388,7 +1388,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jun 2026, 03:33:50 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Jun 2026, 04:34:53 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
